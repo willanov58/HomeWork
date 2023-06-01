@@ -1,0 +1,15 @@
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\bin\Debug\net6.0\fourth.exe
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\bin\Debug\net6.0\fourth.deps.json
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\bin\Debug\net6.0\fourth.runtimeconfig.json
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\bin\Debug\net6.0\fourth.dll
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\bin\Debug\net6.0\fourth.pdb
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\obj\Debug\net6.0\fourth.csproj.AssemblyReference.cache
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\obj\Debug\net6.0\fourth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\obj\Debug\net6.0\fourth.AssemblyInfoInputs.cache
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\obj\Debug\net6.0\fourth.AssemblyInfo.cs
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\obj\Debug\net6.0\fourth.csproj.CoreCompileInputs.cache
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\obj\Debug\net6.0\fourth.dll
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\obj\Debug\net6.0\refint\fourth.dll
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\obj\Debug\net6.0\fourth.pdb
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\obj\Debug\net6.0\fourth.genruntimeconfig.cache
+C:\Users\merck\OneDrive\Рабочий стол\homework\fourth\obj\Debug\net6.0\ref\fourth.dll
